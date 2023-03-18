@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+NUMBER TWO (2)
+i.	Performance
+ii.	JSX-JavaScript Syntax Extension
+iii.	Virtual Dom
+iv.	Debugging
+v.	One-way Data binding
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NUMBER THREE (3)
+i.	Reusable Components
+ii.	Usability
+iii.	Flexible due to it modular structure
+iv.	It provides high performance in mind 
+v.	Ultimately boosts the speed of the development process
 
-## Available Scripts
+NUMBER FOUR (4)
+Jordan Walke is the software Engineer that created React, react is own by Meta, Facebook specifically.
 
-In the project directory, you can run:
+NUMBER FIVE (5)
+i.	You must return a single parent element, or it won’t compile in JSX, but in HTML is not compulsory.
+ii.	camelCase is only apply in JSX for your attributes, while in HTML you can make use of camelCase and underscore to differentiate compound words.
+iii.	forHTML and className is use in JSX in replace of for and class in HTML
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+NUMBER SIX (6)
+JSX is combination of HTML and JavaScript that React uses. So if any file contains JSX file, Babel tranpiler converts the JSX into JavaScript objects which becomes a valid JavaScript. Thus, Browser can’t read JSX because there is no inherent implementation for the browser engines to read and understand them.
